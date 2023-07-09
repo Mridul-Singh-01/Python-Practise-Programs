@@ -1,3 +1,5 @@
+# Write a program to input names of n students and store them in a tuple. 
+# Also, input a name from the user and find if this student is present in the tuple or not.
 n=input("The number of records you want to enter : ")
 n=int(n)
 Student_name=[]

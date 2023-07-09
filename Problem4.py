@@ -1,3 +1,6 @@
+# Write a program to find unique elements in a list. 
+# Create a list or take input from user. Progeam should print all the qunique values in the input list.
+
 n=input("The elements you wnat to enter : ")
 n=int(n)
 List=[]

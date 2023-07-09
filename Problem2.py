@@ -1,3 +1,5 @@
+# Write a program to read a list of n integers (positive as well as negative).
+# Create two new lists, one having all positive numbers and the other having all negative numbers from the given list. Print all three lists.
 n=input("How many integers you want to enter in the list : ")
 n=int(n)
 int_list=[]

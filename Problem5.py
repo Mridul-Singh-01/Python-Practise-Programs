@@ -1,3 +1,13 @@
+# Write a program to input your friends’ names and their Phone Numbers and store them in the dictionary as the key-value pair.
+# Perform the following operations on the dictionary:
+# a) Display the name and phone number of all your friends
+# b) Add a new key-value pair in this dictionary and display the modified dictionary
+# c) Delete a particular friend from the dictionary
+# d) Modify the phone number of an existing friend
+# e) Check if a friend is present in the dictionary or not
+# f) Display the dictionary in sorted order of names. [Hint : use sorted() method]
+
+
 n = int(input("Enter how many records you want to enter: "))
 records={}
 for i in range(n):
